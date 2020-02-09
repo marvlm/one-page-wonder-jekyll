@@ -1,8 +1,8 @@
 ---
 id: services
-name: Ciclo de TDD
+name: Ciclo
 heading: Ciclo de TDD
-subheading: (Rojo - Verde - Refactor)
+subheading: " (Rojo - Verde - Refactor)"
 image: /assets/images/ciclo-tdd.png
 ---
 

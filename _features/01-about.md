@@ -1,8 +1,8 @@
 ---
 id: about
-name: Qué es TDD
+name: Qué es?
 heading: Qué es TDD?
-subheading: (Test Driven Development)
+subheading: " (Test Driven Development)"
 image: /assets/images/que-es-tdd.png
 ---
 

@@ -1,6 +1,6 @@
 title: TDD - Infografía
 description: Infografía sobre TDD
-sitename: Your Website
+sitename: TDD - Infografía
 baseurl: '/tdd-infographic'
 sass:
   sass_dir: /assets/_sass
@@ -13,3 +13,5 @@ exclude:
   - README.md
   - LICENSE.txt
   - CNAME
+author: Marvin López
+author_url: https://about.me/marvlm
