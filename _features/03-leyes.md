@@ -1,5 +1,5 @@
 ---
-id: contact
+id: leyes
 name: Leyes
 heading: Leyes de TDD
 subheading: " (3 simples reglas)"
