@@ -2,7 +2,7 @@ header {
   display: block;
   width: 100%;
   text-align: center;
-  background: url('http://placehold.it/1900x500') no-repeat center center scroll;
+  background: url('../assets/images/programming-banner.png') no-repeat center center scroll;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -22,24 +22,34 @@ header {
     background: rgba(255,255,255,0.9);
   }
 
+  h3 {
+    font-size: 47px;
+    background: #fff;
+    background: rgba(255,255,255,0.9);
+  }
+
   @media(max-width:1200px) {
     h1 { font-size: 140px; }
     h2 { font-size: 63px; }
+    h3 { font-size: 43px; }
   }
 
   @media(max-width:991px) {
     h1 { font-size: 105px; }
     h2 { font-size: 50px; }
+    h3 { font-size: 30px; }
   }
 
   @media(max-width:668px) {
     h1 { font-size: 70px; }
     h2 { font-size: 32px; }
+    h3 { font-size: 20px; }
   }
 
   @media(max-width:640px) {
     .headline { padding: 75px 0 25px 0; }
     h1 { font-size: 60px; }
     h2 { font-size: 30px; }
+    h3 { font-size: 18px; }
   }
 }

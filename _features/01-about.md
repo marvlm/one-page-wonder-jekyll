@@ -1,9 +1,9 @@
 ---
 id: about
-name: About
-heading: This First Heading
-subheading: Will Catch Your Eye
-image: "http://placehold.it/500x500"
+name: Qué es TDD
+heading: Qué es TDD?
+subheading: (Test Driven Development)
+image: /assets/images/que-es-tdd.png
 ---
 
-Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.
+TDD o Desarrollo guiado por pruebas en español, es un enfoque evolutivo en la ingeniería de software que combina 2 prácticas que permiten crear código de calidad: Escribir las pruebas primero (Test First Development - TFD), donde se escribe una prueba antes de escribir el código de producción y Refactorización (Refactoring) que ayuda a mejorar la estructura del código.

@@ -1,7 +1,7 @@
-title: One Page Wonder - Jekyll
-description: A Jekyll Landing Page Theme
+title: TDD - Infografía
+description: Infografía sobre TDD
 sitename: Your Website
-baseurl: '/one-page-wonder-jekyll'
+baseurl: '/tdd-infographic'
 sass:
   sass_dir: /assets/_sass
   style: :compressed

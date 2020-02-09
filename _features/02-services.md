@@ -1,9 +1,13 @@
 ---
 id: services
-name: Services
-heading: The Second Heading
-subheading: Is Pretty Cool Too.
-image: "http://placehold.it/500x500"
+name: Ciclo de TDD
+heading: Ciclo de TDD
+subheading: (Rojo - Verde - Refactor)
+image: /assets/images/ciclo-tdd.png
 ---
 
-Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.
+Para hacer TDD, debes cumplir un ciclo que consta de 3 partes:
+
+- La prueba debe fallar. (Red: Muchas herramientas muestran los fallos de las pruebas en rojo)
+- La prueba debe pasar. (Green: Al igual que lo anterior, las herramientas muestran las pruebas que pasan en verde)
+- Se debe mejorar el código. (Refactoring)
