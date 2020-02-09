@@ -1,11 +1,5 @@
-# One Page Wonder Jekyll
+# Infografia sobre TDD (Test Driven Development)
 
-[Jekyll](https://github.com/jekyll/jekyll) port of [One Page Wonder](https://github.com/IronSummitMedia/startbootstrap-one-page-wonder).
+TDD (Test Driven Development)
+En español Desarrollo guiado por pruebas de software, es una práctica de ingeniería de software que involucra otras dos prácticas: Escribir las pruebas primero y Refactorización. Para escribir las pruebas generalmente se utilizan las pruebas unitarias.
 
-## Contributing
-
-1. Fork it ( https://github.com/mushishi78/one-page-wonder-jekyll/fork )
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create a new Pull Request
