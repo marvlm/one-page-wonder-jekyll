@@ -3,7 +3,7 @@ id: advantages
 name: Ventajas
 heading: Ventajas de TDD
 subheading:
-image: /assets/images/advantages.png
+image: /assets/images/undraw_code_review_l1q9.png
 ---
 
 - Confianza
