@@ -20,6 +20,15 @@
     width: 100%;
 }
 
+.link {
+	flex: 1;
+	margin: 2px;
+	padding: 10px;
+	&:first-child { margin-left: 0; }
+	&:last-child { margin-left: 20px; }
+	
+}
+
 @media screen and (max-width: 980px) {
   .columns .column {
 		margin-bottom: 5px;
